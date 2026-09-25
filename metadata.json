@@ -1,0 +1,6 @@
+{
+  "name": "ProductPulse",
+  "description": "Feedback intelligence platform for websites and software applications. Turn feedback into product decisions with AI-driven sentiment, issue clustering, and trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
